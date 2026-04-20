@@ -8,6 +8,10 @@ All notable changes to Freedom will be documented in this file.
 
 - Address bar shows `ens://<name>` for IPNS-backed ENS sites (previously reverted to `ipns://<hash>` after the IPFS gateway redirect)
 
+### Added
+
+- Linux pacman distribution target for Arch Linux and Omarchy users
+
 ## [0.7.0] - 2026-04-19
 
 ### Added
